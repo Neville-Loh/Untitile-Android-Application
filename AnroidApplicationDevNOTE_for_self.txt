@@ -1,0 +1,21 @@
+Android Application Development
+	1. Activity
+	2. Service
+	3. BroadcastReceiver
+	4. Content Provider
+
+Alarm
+	UI where you shall set alarm | Activity
+	Data is saved 		     | ContentProvider
+	7:00 AM			     | Service
+	Event Handling 		     | BroadcastReceiver
+
+
+	ViewGroup
+		LinearLayout
+		RelativeLayout
+		.
+		..
+		....
+
+	view
